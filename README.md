@@ -9,6 +9,7 @@ export my_discord="semanual"
 export working_on=("Fortuna Discord Bot", "4yousee analytics", "Making a game")
 export studing=("Data science", "Esperanto")
 export languages=("Brazillian Portuguese", "English")
+export likes=("Programming", "Games", "Animes", "Linux")
 export fun_fact="I'm a privacy freak"
 ```
 
