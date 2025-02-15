@@ -14,9 +14,9 @@ export fun_fact="I'm a privacy freak"
 ```
 
 ```python
-# About my job
-company = "4yousee"
-roles = ["Full-stack developer", "Linux administrator", "SQL Server developer"]
+# About my job experiences
+company = ["EWA", "4yousee", "Eletromidia"]
+roles = ["Full-stack developer", "Linux administrator", "Database administrator and developer", "Unity developer", "IOT developer"]
 ```
 
 ```js
